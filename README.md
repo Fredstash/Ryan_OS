@@ -9,7 +9,7 @@ I developed this software primarily to understand how a software works, I don't 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/Yuo3CVx5xxk))
 
 # Development Environment
 

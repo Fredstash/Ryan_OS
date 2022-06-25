@@ -1,26 +1,30 @@
 # Overview
 
-I wanted to understand Java and so I felt like this would help me use many aspects of Java. I started with some basic functions and classes. After grasping functions and classes I studied the functionality of the Java collection ArrayList and recreated it to implement in my software
 
-My software is a budget tracking app. It allows the user to input data into an ArrayList. They can store budget information, including the expense type, the current money spent, and the goal. The software also allows for the user to delete budget data. The software also allows the user to add money into the current money spent to any of the expense types.
+I have always been interested in low level coding and understand memory management and macros. This project helped me have a greater grasp on what code is really telling the computer
 
-My primary purpose was to understand data structures in Java by implementing a homemade data structure to store budget data.
+I followed a tutorial (listed below) that built a basic OS. Currently, the OS can display data to the QEMU virtual machine. It also has a print and println macro, and an add and subtract macro that I built to get a better grasp on macros.
 
-[Software Demo Video](https://youtu.be/mx_HroeQnnk)
+I developed this software primarily to understand how a software works, I don't see it going much further than a simple exercise in understanding low level programming
+
+{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
+
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-* I primarily used Intellij for the development
-* This was all coded in Java
-* I used the scanner library
+* I used IntelliJ as my IDE
+* I used Rust for coding
+* I built some basic libraries for the OS
+* QEMU virtual machine
 
 # Useful Websites
 
-* [ArrayList Example devgenius](https://blog.devgenius.io/creating-the-java-arraylist-data-structure-3df0b18ad43b) - I Used this for the basic setup of data structures.
-* [W3 Schools Casting](https://www.w3schools.com/java/java_type_casting.asp)
+* [Short explanation of Macros](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/#:~:text=Rust%20has%20two%20types%20of,that%20replaces%20the%20macro%20invocation )
+* [Tutorial](https://os.phil-opp.com/)
 
 # Future Work
 
-* Take the current date and give a suggestion on how they can meet their budget.
-* Save the budget in a file.
-* Build a nicer looking interface
+* I need to finish the testing so that they work from a library.
+* I want to add user input.
+* I need to repair my mistakes from transferring data from the main to the library (A lot of the lib.rs code is directly from the tutorial)

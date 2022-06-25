@@ -1,0 +1,1 @@
+/Users/ryancox/Desktop/Applied\ Programming/ryan_os/target/x86_64ryan_os/debug/libryan_os.rlib: /Users/ryancox/Desktop/Applied\ Programming/ryan_os/src/lib.rs /Users/ryancox/Desktop/Applied\ Programming/ryan_os/src/serial.rs /Users/ryancox/Desktop/Applied\ Programming/ryan_os/src/vga_buffer.rs

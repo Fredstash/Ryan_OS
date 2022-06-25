@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/Users/ryancox/Desktop/Applied Programming/ryan_os/Cargo.toml
+cargo:rustc-link-search=native=/Users/ryancox/Desktop/Applied Programming/ryan_os/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-04a53254ba5ee668/out
+cargo:rustc-link-lib=static=kernel_bin-ryan_os
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=/Users/ryancox/Desktop/Applied Programming/ryan_os/target/x86_64ryan_os/debug/ryan_os
+cargo:rerun-if-changed=build.rs

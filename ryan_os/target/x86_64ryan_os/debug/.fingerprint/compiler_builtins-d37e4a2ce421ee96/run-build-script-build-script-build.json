@@ -1,0 +1,1 @@
+{"rustc":8218216616217075203,"features":"","target":0,"profile":0,"path":0,"deps":[[8427705233296525817,"build_script_build",false,7696652671068800444]],"local":[{"RerunIfChanged":{"output":"x86_64ryan_os/debug/build/compiler_builtins-d37e4a2ce421ee96/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
